@@ -1,2 +1,3 @@
 # LSTM-Melody-Generator
-Generate music with LSTM
+Generate music with LSTM neural networks in Keras
+
